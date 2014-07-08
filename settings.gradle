@@ -1,1 +1,1 @@
-include ':AndroidSample', ':ViewDragHelperSample', ':StaticLayoutSample', ':ProjectFlavor'
+include ':ViewDragHelperSample', ':StaticLayoutSample', ':ProjectFlavor'
