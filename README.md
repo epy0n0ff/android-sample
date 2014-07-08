@@ -1,4 +1,4 @@
 android-sample
 ==============
 
-android compat sample
+android sample code
