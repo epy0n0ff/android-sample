@@ -1,1 +1,1 @@
-include ':ViewDragHelperSample', ':StaticLayoutSample', ':ProjectFlavor'
+include ':ViewDragHelperSample', ':StaticLayoutSample', ':ProjectFlavor', ':PorterDuffXfermode', ':ProductFlavor'
